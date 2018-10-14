@@ -1,5 +1,5 @@
-Django==1.7.1
-dj-database-url==0.3.0
+django
+dj-database-url
 dj-static==0.0.6
 django-appconf==0.6
 django-compressor==1.4
